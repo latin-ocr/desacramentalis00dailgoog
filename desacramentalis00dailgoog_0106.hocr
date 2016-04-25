@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desacramentalis00dailgoog_0106.png"; bbox 0 0 3694 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 295 325 658 402">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 295 325 658 402">
+     <span class='ocr_line' id='line_1_1' title="bbox 295 325 658 402; baseline -0.019 0"><span class='ocrx_word' id='word_1_1' title='bbox 295 325 658 402; x_wconf 55' lang='lat' dir='ltr'>cmxl!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 210 1349 651 1527">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 210 1349 651 1527">
+     <span class='ocr_line' id='line_1_2' title="bbox 210 1349 651 1452; baseline -0.009 -11"><span class='ocrx_word' id='word_1_2' title='bbox 210 1349 216 1353; x_wconf 34' lang='lat'><strong><em>⁴</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 305 1370 651 1452; x_wconf 49' lang='lat' dir='ltr'><strong>mfinas.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 309 1454 573 1527; baseline -0.015 -13"><span class='ocrx_word' id='word_1_4' title='bbox 309 1454 573 1527; x_wconf 55' lang='lat' dir='ltr'><strong>nunu-ij.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 310 1905 627 1963">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 310 1905 627 1963">
+     <span class='ocr_line' id='line_1_4' title="bbox 310 1905 627 1963; baseline 0 -13"><span class='ocrx_word' id='word_1_5' title='bbox 310 1905 627 1963; x_wconf 63' lang='lat' dir='ltr'>‚mnu-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 316 2734 636 2812">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 316 2734 636 2812">
+     <span class='ocr_line' id='line_1_5' title="bbox 316 2734 636 2812; baseline -0.013 -24"><span class='ocrx_word' id='word_1_6' title='bbox 316 2734 513 2812; x_wconf 44' lang='lat' dir='ltr'><strong>ficui.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 520 2744 636 2793; x_wconf 66' lang='lat' dir='ltr'><strong>tvo.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

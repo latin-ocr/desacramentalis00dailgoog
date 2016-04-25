@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desacramentalis00dailgoog_0548.png"; bbox 0 0 3694 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 485 285 897 359">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 485 285 897 359">
+     <span class='ocr_line' id='line_1_1' title="bbox 485 285 897 359; baseline -0.002 -8"><span class='ocrx_word' id='word_1_1' title='bbox 485 285 897 359; x_wconf 53' lang='lat' dir='ltr'><strong>Car-xxxu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 539 995 902 1061">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 539 995 902 1061">
+     <span class='ocr_line' id='line_1_2' title="bbox 539 995 902 1061; baseline 0 -15"><span class='ocrx_word' id='word_1_2' title='bbox 539 995 667 1047; x_wconf 63' lang='grc' dir='ltr'><strong>ΠΜ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 691 1000 849 1061; x_wconf 64' lang='grc' dir='ltr'><strong>Μαι.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 868 1010 902 1049; x_wconf 81' lang='lat' dir='ltr'><strong>e.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 515 3108 855 3226">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 515 3108 855 3226">
+     <span class='ocr_line' id='line_1_3' title="bbox 519 3108 855 3160; baseline 0.012 -3"><span class='ocrx_word' id='word_1_5' title='bbox 519 3108 659 3158; x_wconf 75' lang='lat' dir='ltr'>hom.</span> <span class='ocrx_word' id='word_1_6' title='bbox 684 3123 759 3160; x_wconf 67' lang='grc' dir='ltr'><strong>ιτ.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 802 3111 855 3160; x_wconf 80' lang='lat' dir='ltr'><strong>in</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 515 3175 821 3226; baseline 0.007 -5"><span class='ocrx_word' id='word_1_8' title='bbox 515 3175 678 3222; x_wconf 61' lang='grc' dir='ltr'><em>Μετὰ·</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 703 3188 821 3226; x_wconf 71' lang='grc' dir='ltr'><strong>αττ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 514 3253 731 3301">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 514 3253 731 3301">
+     <span class='ocr_line' id='line_1_5' title="bbox 514 3253 731 3301; baseline 0.014 -16"><span class='ocrx_word' id='word_1_10' title='bbox 514 3253 672 3301; x_wconf 54' lang='lat' dir='ltr'>gan..</span> <span class='ocrx_word' id='word_1_11' title='bbox 690 3255 731 3288; x_wconf 81' lang='lat' dir='ltr'><strong>c.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3628 1880 3631 2719">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3628 1880 3631 2719">
+     <span class='ocr_line' id='line_1_6' title="bbox 3628 1880 3631 2719; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 3628 1880 3631 2719; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desacramentalis00dailgoog_0307.png"; bbox 0 0 3694 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3009 390 3376 486">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3009 390 3376 486">
+     <span class='ocr_line' id='line_1_1' title="bbox 3009 390 3376 486; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 3009 390 3376 486; x_wconf 52' lang='lat' dir='ltr'>Cssfewffl·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2991 682 3380 931">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2991 682 3380 931">
+     <span class='ocr_line' id='line_1_2' title="bbox 2995 682 3310 735; baseline 0.013 -4"><span class='ocrx_word' id='word_1_2' title='bbox 2995 685 3004 694; x_wconf 84' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_3' title='bbox 3039 694 3160 733; x_wconf 70' lang='lat' dir='ltr'>nrt-2</span> <span class='ocrx_word' id='word_1_4' title='bbox 3181 682 3310 735; x_wconf 70' lang='lat' dir='ltr'>dein</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 3029 753 3380 813; baseline 0.011 -16"><span class='ocrx_word' id='word_1_5' title='bbox 3029 761 3112 813; x_wconf 73' lang='lat' dir='ltr'>req</span> <span class='ocrx_word' id='word_1_6' title='bbox 3120 753 3380 801; x_wconf 57' lang='lat' dir='ltr'>nen-ctut-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2991 817 3338 931; baseline 0.009 -3"><span class='ocrx_word' id='word_1_7' title='bbox 2991 817 3224 931; x_wconf 47' lang='lat' dir='ltr'>{aff-1⁸?</span> <span class='ocrx_word' id='word_1_8' title='bbox 3237 817 3338 866; x_wconf 62' lang='lat'>&#39;³‘</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
